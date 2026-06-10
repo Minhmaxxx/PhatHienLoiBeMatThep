@@ -1,4 +1,4 @@
-# 🔩 Metal Surface Defect Detection using Deep Learning (CNN)
+# Metal Surface Defect Detection using Deep Learning (CNN)
 
 Hệ thống phát hiện lỗi bề mặt kim loại trong dây chuyền sản xuất công nghiệp, sử dụng **ResNet50** (PyTorch) kết hợp **Grad-CAM++** để trực quan hóa vùng lỗi và **WeightedRandomSampler** xử lý mất cân bằng dữ liệu.
 
@@ -253,7 +253,5 @@ metal-defect-detection/
 - Dataset: GC10-DET – Industrial surface defect detection dataset
 
 ---
-
-## 📄 Giấy phép
 
 Dự án phục vụ mục đích học thuật. Vui lòng trích dẫn nếu sử dụng lại.
